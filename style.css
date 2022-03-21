@@ -1,0 +1,59 @@
+body {
+  font-family: "Avenir Next";
+}
+.header {
+  background-color: #5f9ea0;
+  height: 70px;
+}
+.menu {
+  float: inherit;
+  width: 20%;
+  text-align: center;
+}
+
+.menu a {
+  padding: 8px;
+  margin-top: 7px;
+  display: block;
+  width: 100%;
+  color: black;
+}
+.header-logo {
+  width: 200px;
+  height: 150px;
+  float: left;
+  padding: 2px 4px;
+}
+.header-list li {
+  font-size: 18px;
+  list-style: none;
+  float: left;
+  padding: 24px 35px;
+}
+.main {
+  background-color: #fff;
+  height: 600px;
+}
+.footer {
+  background-color: #5f9ea0;
+  height: 150px;
+}
+.footer-logo {
+  float: left;
+  font-size: 25px;
+  padding: 20px 10px;
+}
+img {
+  height: 50%;
+  padding: 10px 5px;
+  border-radius: 6%;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  list-style: none;
+  font-size: 18px;
+  padding-bottom: 1px;
+  padding-left: 0px;
+}
